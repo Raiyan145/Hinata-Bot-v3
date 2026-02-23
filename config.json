@@ -1,6 +1,6 @@
 {
-   "author": ["MahMUD"],
-    "facebookAccount": {
+   "author": ["Luffy"],
+    "facebookAccount": "https://www.facebook.com/profile.php?id=100095002878465",
     "email": "mahmudx077@gmail.com",
     "password": "",
     "2FASecret": "",
@@ -18,7 +18,7 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "100071426273870"
   ],
   "whiteListMode": {
     "enable": false,
